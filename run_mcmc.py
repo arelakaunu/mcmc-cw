@@ -26,6 +26,3 @@ if __name__ == "__main__":
         json.dump(results, f, indent=2)
 
     print("[Main] Results saved to outputs/mcmc_results.json")
-
-
-#adwadwadawdwdadawd

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+
+# Virtual environments
+.venv/
+
+# Azure ML
+outputs/
+logs/
+amlignore
+azureml_environment.yml
+.azureml/config.json
+
+# Jupyter Notebook checkpoints (if you use notebooks later)
+.ipynb_checkpoints/
+
+# OS junk files
+.DS_Store
+Thumbs.db

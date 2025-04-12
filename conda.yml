@@ -1,0 +1,12 @@
+name: mcmc-env
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - joblib
+    - azure-ai-ml
+    - azure-identity

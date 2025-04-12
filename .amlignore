@@ -1,0 +1,15 @@
+# Ignore Git metadata
+.git/
+.gitignore
+
+# Local virtual environment
+.venv/
+
+# Logs and outputs from previous runs
+logs/
+outputs/
+
+# Environment and config files not needed in compute
+.azureml/config.json
+azureml_environment.yml
+conda.yml

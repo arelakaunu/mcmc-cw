@@ -20,3 +20,5 @@ azureml_environment.yml
 # OS junk files
 .DS_Store
 Thumbs.db
+
+.backup/

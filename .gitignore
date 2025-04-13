@@ -10,7 +10,7 @@ __pycache__/
 # Azure ML
 outputs/
 logs/
-amlignore
+.amlignore
 azureml_environment.yml
 .azureml/config.json
 

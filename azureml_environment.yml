@@ -1,0 +1,4 @@
+name: mcmc-env
+image: mcr.microsoft.com/azureml/openmpi4.1.0-ubuntu20.04:latest
+conda_file: conda.yml
+description: Azure ML environment for parallel MCMC coursework

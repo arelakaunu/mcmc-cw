@@ -1,6 +1,6 @@
 code: .
 command: >-
-  python run_mcmc.py
+  python run_mh_parallel.py
 environment: azureml:mcmc-env@latest
 compute: mcmc-cluster
 experiment_name: mcmc-experiment

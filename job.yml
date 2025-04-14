@@ -1,7 +1,7 @@
 code: .
 command: >-
   python run_mcmc.py
-environment: azureml:mcmc-env@latest
+environment: azureml:mcmc-custom-env@latest
 compute: mcmc-cluster
 experiment_name: mcmc-experiment
 display_name: parallel-mcmc-job
